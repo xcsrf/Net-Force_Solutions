@@ -21,7 +21,7 @@ def subs(x):
           "y":"w"
           }[x]
 
-CIPHERTEXT = "ogrk hg tl`n srbszizrzig aiphgu mg ycahzylluf vllu fg ahcoogneg pceinc is ngzdluag"
+CIPHERTEXT = "TCTATCAGTGACTGCTTGAATGTATGCGTCACAGATAGAATTGGTGAATGACAGAATGGT"
 
 PLAINTEXT = ""
 
